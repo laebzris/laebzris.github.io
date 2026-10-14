@@ -1275,3 +1275,6 @@ tra la jaroj.
 
 
 - Kvarono da homsufero estas dentdoloro.<br>—Thomas De QUINCEY, Konfesoj de Angla Opia Manĝanto
+
+
+- Ne mondo povas esti perfekta, sed ni devas elekti por igi nian vivon tiel bone kiel ĝi eblas.<br>—Alice Braga, Dark Matter (2024)
