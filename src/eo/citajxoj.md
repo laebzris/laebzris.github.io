@@ -1277,4 +1277,7 @@ tra la jaroj.
 - Kvarono da homsufero estas dentdoloro.<br>—Thomas De QUINCEY, Konfesoj de Angla Opia Manĝanto
 
 
-- Ne mondo povas esti perfekta, sed ni devas elekti por igi nian vivon tiel bone kiel ĝi eblas.<br>—Alice Braga, Dark Matter (2024)
+- Ne mondo povas esti perfekta, sed ni devas elekti por igi nian vivon tiel bone kiel ĝi eblas.<br>—Amanda Lucas, Dark Matter (2024)
+
+
+- Kaj se vi faras la elektojn kiujn portas vin ĉi tien, aŭtentike, vi estos en paco kien vi alvenas.<br>—Laurel, Dark Matter (2024)

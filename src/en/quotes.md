@@ -1286,4 +1286,7 @@ the years.
 - A quarter of all human suffering is toothache.<br>—Thomas De Quincey, Confessions of an English Opium Eater
 
 
-- No world can be perfect, but we have to choose to make our life as great as it can be.<br>—Alice Braga, Dark Matter (2024)
+- No world can be perfect, but we have to choose to make our life as great as it can be.<br>—Amanda Lucas, Dark Matter (2024)
+
+
+- And if you made the choices that brought you here, genuinely, you'll be at peace with where you end up.<br>—Laurel, Dark Matter (2024)
