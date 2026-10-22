@@ -223,4 +223,4 @@ TTT-versiojn de markdaŭnaj bufroj per
 [shell-command](https://www.gnu.org/software/emacs/manual/html_node/elisp/Synchronous-Processes.html)
 kaj [emacs-w3m](https://www.emacswiki.org/emacs/emacs-w3m). Por vidi emem en efektiva uzado, iru [ĉi tien](https://codeberg.org/vti/ebzzry.github.io/blob/main/makefile).
 
-Se oni konas iom da Kloĵuro, forku [ĝin](https://codeberg.org/vti/emem/) kaj kodumu!
+Se oni konas iom da Kloĵuro, [forku la projekton](https://codeberg.org/vti/emem/) kaj kodumu!

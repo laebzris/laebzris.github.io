@@ -223,4 +223,4 @@ previews of Markdown buffers using
 and [emacs-w3m](https://www.emacswiki.org/emacs/emacs-w3m). To see emem in actual usage, go
 [here](https://codeberg.org/vti/ebzzry.github.io/blob/main/makefile).
 
-If you know a bit of Clojure, [fork it](https://codeberg.org/vti/emem/) and hack away!
+If you know a bit of Clojure, [fork the project](https://codeberg.org/vti/emem/) and hack away!
