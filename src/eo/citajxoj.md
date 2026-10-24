@@ -1281,3 +1281,6 @@ tra la jaroj.
 
 
 - Kaj se vi faras la elektojn kiujn portas vin ĉi tien, aŭtentike, vi estos en paco kien vi alvenas.<br>—Laurel, Dark Matter (2024)
+
+
+- Ni ne povas regi niajn dezirojn, nur tion kiujn ni faras al ili.<br>—Amanda Lucas, Dark Matter (2024)

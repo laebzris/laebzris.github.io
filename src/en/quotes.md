@@ -1290,3 +1290,6 @@ the years.
 
 
 - And if you made the choices that brought you here, genuinely, you'll be at peace with where you end up.<br>—Laurel, Dark Matter (2024)
+
+
+- We can't control our desires, only what we do about them.<br>—Amanda Lucas, Dark Matter (2024)
