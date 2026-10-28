@@ -1284,3 +1284,6 @@ tra la jaroj.
 
 
 - Ni ne povas regi niajn dezirojn, nur tion kiujn ni faras al ili.<br>—Amanda Lucas, Dark Matter (2024)
+
+
+- Kontraŭeco ĉiam kuŝas ĉe la vojo de antaŭenigo. La plejmulto forkuras de ĝi. Mi marsus tra ĝi.<br>—Valya Harkonnen, Dune: Prophecy (2023)

@@ -1293,3 +1293,6 @@ the years.
 
 
 - We can't control our desires, only what we do about them.<br>—Amanda Lucas, Dark Matter (2024)
+
+
+- Adversity always lies in the path of advancement. Most would run from it. I would walk through it.<br>—Valya Harkonnen, Dune: Prohecy (2023)
