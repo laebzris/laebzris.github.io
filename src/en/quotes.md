@@ -1299,3 +1299,9 @@ the years.
 
 
 - Persistence without insight will lead to the same outcome.<br>—The Armorer, The Book of Boba Fett
+
+
+- If you give someone Fortran, he has Fortran. If you give someone Lisp, he has any language he pleases.<br>—Guy L. Steele, Jr.
+
+
+- However, he'll have a hard time finding someone else speaking that same language he pleases.<br>—Faré Rideau
