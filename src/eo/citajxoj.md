@@ -1287,3 +1287,6 @@ tra la jaroj.
 
 
 - Kontraŭeco ĉiam kuŝas ĉe la vojo de antaŭenigo. La plejmulto forkuras de ĝi. Mi marsus tra ĝi.<br>—Valya Harkonnen, Dune: Prophecy (2023)
+
+
+- Senĉeseco sen elsciado kondukas al la sama elveno.<br>—La armilisto, The Book of Boba Fett

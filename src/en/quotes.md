@@ -1296,3 +1296,6 @@ the years.
 
 
 - Adversity always lies in the path of advancement. Most would run from it. I would walk through it.<br>—Valya Harkonnen, Dune: Prohecy (2023)
+
+
+- Persistence without insight will lead to the same outcome.<br>—The Armorer, The Book of Boba Fett
