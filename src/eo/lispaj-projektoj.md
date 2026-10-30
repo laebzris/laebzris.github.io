@@ -1,10 +1,10 @@
 ---
-title: Kiel Mi Kreas Lispajn Projektojn
+title: Kiel Mi Kreas Komunlispajn Projektojn
 keywords: lispo, komuna lispo, komunlispo, linukso, makintoŝo
 image: https://ebzzry.com/images/site/gwen-weustink-I3C1sSXj1i8-unsplash-2000x1125.jpg
 ---
-Kiel Mi Kreas Lispajn Projektojn
-================================
+Kiel Mi Kreas Komunlispajn Projektojn
+=====================================
 
 <div class="center">2025-08-04</div>
 
@@ -33,10 +33,10 @@ Kiel Mi Kreas Lispajn Projektojn
 Mia originala intenco krei ĉi tiun artikolon estas por krei la duan parton de la
 unua artikolo pri skriptado en lispo. Mia plano estas paroli kiel mi aliras
 komandlinian skritadon per lispo. Anstataŭe, tio kion mi deziras priparoli nun
-estas kiel mi kreas lispajn projekton, per maniero kiu malplilongigas la
+estas kiel mi kreas komunlispajn projekton, per maniero kiu malplilongigas la
 inicialan tempon por krei reuzeblan kodon. Mi faras ĉi tion ofte, kaj mi pensas,
 ke estus pli bone se mi parolas pri ĝi, anstataŭe. Kunokaze, ĉi tiu aliro ja
-uzas la manieron kiel mi skribas lispajn skriptojn por la komandlinio. Mi
+uzas la manieron kiel mi skribas komunlispajn skriptojn por la komandlinio. Mi
 kredas, ke mi eblas povi pafi du birdojn per ĉi tio.
 
 
@@ -77,7 +77,7 @@ La programaro kiu oni bezonas estas la jene:
 
 ### <a name="sbcl">SBCL</a>
 
-La nura deca malfermitkoda lispa realigo, nuntempe, estas
+La nura deca malfermitkoda komunlispa realigo, nuntempe, estas
 [SBCL](http://sbcl.org). Ĝi funkcias sur x86, x86_64,kaj aarch64. Ĝi kuras sur
 linukso, makintoŝo, kaj vindozo. Ĝi liveras altkvalitan plejbonigitan kodon. Ĉe
 la komerca flako, estas [LispWorks](https://lispworks.com), kiun mi uzas ĉefe.
@@ -101,7 +101,7 @@ Sed, oni jam scias tion kion mi celas 😉
 
 ### <a name="quicklisp">Quicklisp</a>
 
-Quicklisp estas la defakta normo por instali lispajn bibliotekojn. Ne estas
+Quicklisp estas la defakta normo por instali komunlispajn bibliotekojn. Ne estas
 surfacaj sonoriloj kaj fajfiloj. Ĝi simple funkcias. Jen unu-linia komando por
 instali ĝin sur linukso aŭ makintoŝo:
 

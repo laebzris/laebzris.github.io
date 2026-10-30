@@ -301,7 +301,7 @@ devShells.${system} = rec {
 };
 ```
 
-Tio difinas lispan ŝelon per `pkgs.mkShell` kaj prenas atribuan liston. La plej
+Tio difinas komunlispan ŝelon per `pkgs.mkShell` kaj prenas atribuan liston. La plej
 grava ŝlosilo estas `buildInputs` kiu estas listo de la pakoj. Ĉi tie, ĝi estas
 `pkgs.sbcl`. Kiel la `packages`-eligo, ni difinas implicitan ŝelon per
 `default`.

@@ -60,7 +60,7 @@ nix build /Users/foo/tmp
   lisp = mkShell { buildInputs = &#91; sbcl &#93;; };
   default = lisp;
 };
-</code></pre><p>Tio difinas lispan ŝelon per <code>pkgs.mkShell</code> kaj prenas atribuan liston. La plej grava ŝlosilo estas <code>buildInputs</code> kiu estas listo de la pakoj. Ĉi tie, ĝi estas <code>pkgs.sbcl</code>. Kiel la <code>packages</code>-eligo, ni difinas implicitan ŝelon per <code>default</code>.</p><p>Nia <code>flake.nix</code>-dosiero nun aspektas jene</p><pre><code class="nix">{
+</code></pre><p>Tio difinas komunlispan ŝelon per <code>pkgs.mkShell</code> kaj prenas atribuan liston. La plej grava ŝlosilo estas <code>buildInputs</code> kiu estas listo de la pakoj. Ĉi tie, ĝi estas <code>pkgs.sbcl</code>. Kiel la <code>packages</code>-eligo, ni difinas implicitan ŝelon per <code>default</code>.</p><p>Nia <code>flake.nix</code>-dosiero nun aspektas jene</p><pre><code class="nix">{
   description = &quot;A flake️️&quot;;
   inputs = { nixpkgs.url = &quot;github:nixos/nixpkgs?ref=nixpkgs-unstable&quot;; };
   outputs = { nixpkgs, ... }:

@@ -1,10 +1,10 @@
 ---
-title: Lispaj Plurvokaj Plenumeblaj Dosieroj
+title: Komunlispaj Plurvokaj Plenumeblaj Dosieroj
 keywords: lispo, komuna lispo, komunlispo, skriptado, linukso 
 image: https://ebzzry.com/images/site/lisp-lizard-1008x250.png
 ---
-Lispaj Plurvokaj Plenumeblaj Dosieroj
-=====================================
+Komunlispaj Plurvokaj Plenumeblaj Dosieroj
+==========================================
 
 <div class="center">2018-09-25</div>
 
@@ -72,7 +72,7 @@ faras. Komunlispe ĉi tio estas traktita de [cl-launch](https://github.com/fare/
 Skriptado en komunlispo funkcias super la lingvo, tio estas, en la formo de bibliotekoj kiuj la
 abstraktadojn disponigas por interagi kun la sistemo kaj la medio. [Utilities for Implementation-
 and OS- Portability (UIOP)](https://gitlab.common-lisp.net/asdf/asdf/tree/master/uiop) estas aro de
-abstraktadoj kiuj nin permesas por porteblan lispan kodon skribi. UIOP estas enkonstruita en
+abstraktadoj kiuj nin permesas por porteblan komunlispan kodon skribi. UIOP estas enkonstruita en
 ASDF3—kiu estas parto de la plejparto de komunlispaj realigoj—do ne ekzistas bezono por ĝin permane
 instali. [inferior-shell](https://github.com/fare/inferior-shell) helpas por la procezojn
 administri. [cl-scripting](https://github.com/fare/cl-scripting) helpas por pli da rego.
