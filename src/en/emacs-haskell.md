@@ -32,7 +32,7 @@ Emacs Haskell Programming
 
 Haskell is a beautiful language. Let me just say that. It is one of those
 languages that was designed to be elegant and powerful. On the other side of the
-rainbow is Lisp and on the other side is Haskell. It’s not just because it is
+rainbow is Common Lisp and on the other side is Haskell. It’s not just because it is
 purely functional, statically typed, lazily evaluated, implements type classes
 powerfully, abounding with research, and has rich community. It is because it has
 all those. 

@@ -32,7 +32,7 @@ Haskela Programado
 
 Haskelo estas bela programlingvo. Mi simple diru tion. Ĝi estas unu el tiuj
 programlingvoj kiu estis desegnite eleganta kaj potenca. En la alia flanko de la
-ĉielarko estas Lispo kaj en la alia flanko estas Haskelo. Ne estas nur pro ĝi
+ĉielarko estas Komunlispo kaj en la alia flanko estas Haskelo. Ne estas nur pro ĝi
 estas pure funkcia, statike tipigita, maldiligente taksita, potence realigas
 tipklasajn, riĉa per esplorado, kaj havas aktivan komunumon. Estas pro ĝi havas
 ĉion.

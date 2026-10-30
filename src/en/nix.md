@@ -731,7 +731,7 @@ nix-repl> meh.a
 ```
 
 It is also possible to specify default values. When a parameter with default value is not used, the
-default value will be used. They are declared similarly in Lisp:
+default value will be used. They are declared similarly in Common Lisp:
 
 ```lisp
 * (defun foof (a &optional (b "O.o"))
@@ -811,7 +811,7 @@ nix-repl> let x = "foo"; y = "bar"; in x + poof { a = "huh"; b = "really"; } "hm
 
 Take note of the last `;` before the `in` keyword that goes with `let`—it marks the start of the
 `let` body. The let construct behaves in similar ways to the `let` keyword found in languages like
-Lisp and Haskell.
+Common Lisp and Haskell.
 
 
 ### <a name="nixwith">With</a>

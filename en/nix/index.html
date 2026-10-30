@@ -214,7 +214,7 @@ nix-repl&gt; ugh &quot;me&quot; &quot;you&quot;
 
 nix-repl&gt; meh.a
 &quot;foo&quot;
-</code></pre><p>It is also possible to specify default values. When a parameter with default value is not used, the default value will be used. They are declared similarly in Lisp:</p><pre><code class="lisp">&#42; &#40;defun foof &#40;a &amp;optional &#40;b &quot;O.o&quot;&#41;&#41;
+</code></pre><p>It is also possible to specify default values. When a parameter with default value is not used, the default value will be used. They are declared similarly in Common Lisp:</p><pre><code class="lisp">&#42; &#40;defun foof &#40;a &amp;optional &#40;b &quot;O.o&quot;&#41;&#41;
     &#40;concatenate 'string a b&#41;&#41;
 
 &#42; &#40;foof &quot;o.O &quot;&#41;
@@ -246,7 +246,7 @@ nix-repl&gt; foof { a = &quot;A&quot;; b = &quot;B&quot;; c = &quot;X&quot;; d =
 
 </code></pre><h3><a name="nixlet">Let</a></h3><p>The keyword <code>let</code> lets (pun not intended) us define variables in a local scope. For example, to make the identifiers <code>x</code> and <code>y</code> visible only in a local scope:</p><pre><code class="nix">nix-repl&gt; let x = &quot;foo&quot;; y = &quot;bar&quot;; in x + poof { a = &quot;huh&quot;; b = &quot;really&quot;; } &quot;hmm&quot; + y
 &quot;foohuh reallyhmmbar&quot;
-</code></pre><p>Take note of the last <code>;</code> before the <code>in</code> keyword that goes with <code>let</code>—it marks the start of the <code>let</code> body. The let construct behaves in similar ways to the <code>let</code> keyword found in languages like Lisp and Haskell.</p><h3><a name="nixwith">With</a></h3><p>The keyword <code>with</code> lets you ‘drop’ set values in a scope:</p><pre><code class="nix">nix-repl&gt; with { x = &quot;foo&quot;; y = &quot;bar&quot;; }; poof { a = y; b = x; } &quot; xyz&quot;
+</code></pre><p>Take note of the last <code>;</code> before the <code>in</code> keyword that goes with <code>let</code>—it marks the start of the <code>let</code> body. The let construct behaves in similar ways to the <code>let</code> keyword found in languages like Common Lisp and Haskell.</p><h3><a name="nixwith">With</a></h3><p>The keyword <code>with</code> lets you ‘drop’ set values in a scope:</p><pre><code class="nix">nix-repl&gt; with { x = &quot;foo&quot;; y = &quot;bar&quot;; }; poof { a = y; b = x; } &quot; xyz&quot;
 &quot;bar foo xyz&quot;
 </code></pre><p>What happened here is that the values inside that set were ‘unveiled’ to make them available in the <code>with</code> body.</p><h3><a name="nixconditionals">Conditionals</a></h3><p>Conditional expressions are done with the <code>if</code> keyword. It has a similar form with mainstream languages:</p><pre><code class="nix">nix-repl&gt; if true then &quot;true&quot; else &quot;false&quot;
 &quot;true&quot;

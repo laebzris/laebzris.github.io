@@ -1290,3 +1290,8 @@ tra la jaroj.
 
 
 - Senĉeseco sen elsciado kondukas al la sama elveno.<br>—La armilisto, The Book of Boba Fett
+
+- Se oni donas je Fortran al iu, ĝi havas je Fortran. Se oni donas Lispon, ĝi havas ajnan lingvon kiun ĝi deziras.<br>—Guy L. Steele, Jr.
+
+
+- Tamen ĝi havos malfacilecon trovi iun kiu parolas tiun saman lingvon kiun ĝi deziras.<br>—Faré Rideau

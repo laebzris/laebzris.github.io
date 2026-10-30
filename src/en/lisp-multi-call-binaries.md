@@ -1,9 +1,9 @@
 ---
-title: Lisp Multi-Call Binaries
+title: Common Lisp Multi-Call Binaries
 keywords: lisp, common lisp, scripting, linux, macos
 image: https://ebzzry.com/images/site/lisp-lizard-1008x250.png
 ---
-Lisp Multi-Call Binaries
+Common Lisp Multi-Call Binaries
 ========================
 
 <div class="center">2017-08-04</div>
@@ -31,15 +31,15 @@ Lisp Multi-Call Binaries
 <a name="introduction">Introduction</a>
 ---------------------------------------
 
-Full-fledged systems and libraries have always been a comfortable zone for Lisp
-users. However, for a long time, there has not been a definitive solution in using Lisp as a scripting
+Full-fledged systems and libraries have always been a comfortable zone for Common Lisp
+users. However, for a long time, there has not been a definitive solution in using Common Lisp as a scripting
 language. A scripting language, in this context, means something that is similar in spirit to
 command line shells—that is, one that is used to issue, control, and manage system commands on the
 application level. The meaning also extends to the automation of the execution of tasks that are
-otherwise done one-by-one. In this article, I will give a short introduction on how to use Lisp in the
+otherwise done one-by-one. In this article, I will give a short introduction on how to use Common Lisp in the
 scripting domain.
 
-One of the most common questions I get when I mention that I want to do scripting in Lisp, is that why
+One of the most common questions I get when I mention that I want to do scripting in Common Lisp, is that why
 would I want to do so and is it possible. The answer is simple: I want more power and
 expressivity. I want a mature and unencumbered language. I want a language that is able to express
 my ideas, in least amount of friction.
@@ -47,32 +47,32 @@ my ideas, in least amount of friction.
 A script is only as powerful as the language and tools would allow. Bash and friends, for example,
 are great for expressing ideas, as if you are typing them on the command line itself. It emulates
 that behavior inside a script. You can define functions to do subroutines, but they’re just
-that. Functions in Bash are nowhere near functions in languages like Lisp. As an interactive user
+that. Functions in Bash are nowhere near functions in languages like Common Lisp. As an interactive user
 shell, it works fine; other than that, no.
 
 Other scripting solutions exist in other languages. Haskell, Python, Scheme, and Ruby, to name a
-few, has it. However, there’s a neat feature of Lisp, that is difficult to implement or non-existent in
-other approaches: since the scripts themselves are valid Lisp programs, I can load the programs
-in the REPL and do nice things with it. Nothing comes close to the flexibility that Lisp provides when
+few, has it. However, there’s a neat feature of Common Lisp, that is difficult to implement or non-existent in
+other approaches: since the scripts themselves are valid Common Lisp programs, I can load the programs
+in the REPL and do nice things with it. Nothing comes close to the flexibility that Common Lisp provides when
 interacting with live, running programs.
 
-In this short tutorial, I will also lightly gloss about one nice thing with Lisp scripting: multi-call
+In this short tutorial, I will also lightly gloss about one nice thing with Common Lisp scripting: multi-call
 binaries. A multi-call binary is a single executable file that can be dereferenced with many
 names. Each name corresponds to a specific subroutine inside that single binary. The beauty of this
 approach is that instead of managing many different programs, you only manage one, and it will
-dispatch the correct subprogram that a user wants. This is similar to what Busybox is doing. In Lisp,
+dispatch the correct subprogram that a user wants. This is similar to what Busybox is doing. In Common Lisp,
 this is handled by [cl-launch](https://github.com/fare/cl-launch).
 
 
 <a name="prerequisites">Prerequisites</a>
 ------------------------------------------
 
-Scripting in Lisp works on top of the language, that is, in the form of libraries that provide the
+Scripting in Common Lisp works on top of the language, that is, in the form of libraries that provide the
 abstractions to interact with the system and
 environment. [Utilities for Implementation- and OS- Portability (UIOP)](https://gitlab.common-lisp.net/asdf/asdf/tree/master/uiop) is
-a set of abstractions that lets us use and write portable Lisp code. It does the heavy lifting of
-making sure that we are going to write portable Lisp code. UIOP is part of ASDF3—which is part of
-most modern Lisp implementations—so there is no need to manually install
+a set of abstractions that lets us use and write portable Common Lisp code. It does the heavy lifting of
+making sure that we are going to write portable Common Lisp code. UIOP is part of ASDF3—which is part of
+most modern Common Lisp implementations—so there is no need to manually install
 it. [inferior-shell](https://github.com/fare/inferior-shell) helps us with managing
 processes. [cl-scripting](https://github.com/fare/cl-scripting) helps us with more process control.
 
@@ -109,7 +109,7 @@ Then, let’s create `my-scripts.asd` in that directory. To start, it will conta
 
 (defsystem "my-scripts"
   :version "0.0.1"
-  :description "Lisp scripts"
+  :description "Common Lisp scripts"
   :license "MIT"
   :author "Muno VAKELO"
   :class :package-inferred-system
@@ -398,7 +398,7 @@ Yay!
 <a name="caveats">Caveats</a>
 -----------------------------
 
-An important thing to note is that in the definitions, you can’t use a Lisp keyword as the name of
+An important thing to note is that in the definitions, you can’t use a Common Lisp keyword as the name of
 the command. So inside `EXPORTING-DEFINITIONS`, you can’t have something like this:
 
 ```lisp
@@ -407,26 +407,26 @@ the command. So inside `EXPORTING-DEFINITIONS`, you can’t have something like 
     (run/i `(urxvt ,@args)`)))
 ```
 
-If you do, and try to compile the file, your Lisp implementation will complain about a name that is
+If you do, and try to compile the file, your Common Lisp implementation will complain about a name that is
 already in use.
 
 
 <a name="closing">Closing Remarks</a>
 --------------------------------------
 
-It has been said many times that Lisp has already faded into obscurity; that no one longer uses it;
+It has been said many times that Common Lisp has already faded into obscurity; that no one longer uses it;
 that it is no longer useful. No, that is not true. Just because it is not being discussed in
-mainstream news, means it is dead or have fallen out of favor. Lisp is a standardized language, and a
+mainstream news, means it is dead or have fallen out of favor. Common Lisp is a standardized language, and a
 program that conforms to the standard has the guarantee—to an extent—that it can still run in the
 future. To create a language standard is a monumental task—it requires that different, possibly
 conflicting parties, to agree to how things should be done. There are different implementations of
-Lisp, and each implementation strives to achieve goals that may not necessarily be compatible with
+Common Lisp, and each implementation strives to achieve goals that may not necessarily be compatible with
 other implementations. That’s OK, because it gives room for implementors and designers, on how to
 work on the base specifications. As long as they conform to the standard, things are green.
 
-The person responsible for making scripting in Lisp possible and acceptable, is
+The person responsible for making scripting in Common Lisp possible and acceptable, is
 [François-René Rideau](http://fare.tunes.org). It was
 [this blog entry](http://fare.livejournal.com/184127.html) that motivated me to
-see the viability of Lisp as a scripting language.
+see the viability of Common Lisp as a scripting language.
 
 _Thanks to [Marco Wahl](https://github.com/marcowahl) for the corrections._

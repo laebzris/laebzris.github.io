@@ -810,7 +810,7 @@ nix-repl> let x = "hundo"; y = "kato"; in x + anaso { a = "ne"; b = "vere"; } "e
 
 Memoru la lastan `;` antaŭ la `in` ŝlosilvorto kiu iras kun `let`—ĝi markas la komencon de la korpo
 de `let`. La konstruo `let` kondutas simile al la ŝlosilvorto `let` troveblas en programlingvoj kiel
-Lispo kaj Haskelo.
+Komunlispo kaj Haskelo.
 
 
 ### <a name="nixwith">With</a>

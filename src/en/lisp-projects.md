@@ -1,10 +1,10 @@
 ---
-title: How I Make Lisp Projects
+title: How I Make Common Lisp Projects
 keywords: lisp, projects, common lisp, linux, macos
 image: https://ebzzry.com/images/site/gwen-weustink-I3C1sSXj1i8-unsplash-2000x1125.jpg
 ---
-How I Make Lisp Projects
-========================
+How I Make Common Lisp Projects
+===============================
 
 <div class="center">2025-08-04</div>
 
@@ -31,19 +31,19 @@ How I Make Lisp Projects
 ---------------------------------------
 
 My original intention in writing this article was to create a part 2 of the
-first article about scripting in Lisp. My plan was to talk about how I approach
-command line scripting using Lisp. Instead, what I want to talk about now is how
-I make Lisp projects, in a way that reduces the initial time to write
+first article about scripting in Common Lisp. My plan was to talk about how I approach
+command line scripting using Common Lisp. Instead, what I want to talk about now is how
+I make Common Lisp projects, in a way that reduces the initial time to write
 boilerplate code. I do this, a lot, that I thought that it would be better to
 talk about it instead. Incidentally, this approach does make use of how I write
-Lisp scripts for the command line. I believe, I’ll be able to hit somewhat like
+Common Lisp scripts for the command line. I believe, I’ll be able to hit somewhat like
 two birds with one stone, with this one.
 
 
 <a name="motivation">Motivation</a>
 -----------------------------------
 
-Writing your own project maker is a rite-of-passage in Lisp Land. They say you
+Writing your own project maker is a rite-of-passage in Common Lisp Land. They say you
 can’t call yourself a _lisper_ until you can make a half-decent tool that
 creates project skeletons.
 
@@ -76,7 +76,7 @@ The software that you need are the following:
 
 ### <a name="sbcl">SBCL</a>
 
-The only decent open source Lisp implementation, nowadays, is
+The only decent open source Common Lisp implementation, nowadays, is
 [SBCL](http://sbcl.org). It works on x86, x86_64, and aarch64. It runs on Linux,
 macOS, and Windows. It produces high-quality optimized code. On the commercial
 side of things is [LispWorks](https://lispworks.com), which is the one that I
@@ -101,7 +101,7 @@ But, you already know what I mean 😉
 
 ### <a name="quicklisp">Quicklisp</a>
 
-Quicklisp is the de facto standard for installing Lisp libraries. There are no
+Quicklisp is the de facto standard for installing Common Lisp libraries. There are no
 fancy bells and whistles. It just works. A one-liner to install it on
 Linux or macOS is:
 
