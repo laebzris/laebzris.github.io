@@ -1295,3 +1295,6 @@ tra la jaroj.
 
 
 - Tamen ĝi havos malfacilecon trovi iun kiu parolas tiun saman lingvon kiun ĝi deziras.<br>—Faré Rideau
+
+
+- Estas pli bone esti surgrunde revi oni estas aere ol esti aere revi oni estas surgrunde.<br>—anonimulo

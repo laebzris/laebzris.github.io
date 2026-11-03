@@ -1305,3 +1305,6 @@ the years.
 
 
 - However, he'll have a hard time finding someone else speaking that same language he pleases.<br>—Faré Rideau
+
+
+- It's better to be on the ground wishing you were in the air, than in the air wishing you were on the ground.<br>—anonymous
