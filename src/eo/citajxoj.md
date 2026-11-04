@@ -1298,3 +1298,6 @@ tra la jaroj.
 
 
 - Estas pli bone esti surgrunde revi oni estas aere ol esti aere revi oni estas surgrunde.<br>—anonimulo
+
+
+- Ĉu ne sentas, ke ĉiuj kelkaj jaroj, estas io kiu detruas la socion? Eĉ la presmaŝino kaŭzis militojn, gentomurdon. La konsekvecoj de elpensaĵoj estas ĉiam grandega kaj neantaŭdirebla. Sed ili palas kontraste al iri malantaŭen. Estas ĉiam la fino de la mondo, ĝis ne estas.<br>—Oluko, Dark Matter (2026)

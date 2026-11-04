@@ -1223,7 +1223,7 @@ the years.
 - Take chances. Make mistakes. Get messy.<br>—Ms. Valerie Frizzle, The Magic School Bus
 
 
-- SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.<br>—Philip Greenspun
+- SQL, Lisp, and Haskell are the only programming languages that I’ve seen where one spends more time thinking than typing.<br>—Philip Greenspun
 
 
 - The more mixed up things are the better the solution.<br>—Ms. Valerie Frizzle, The Magic School Bus
@@ -1244,7 +1244,7 @@ the years.
 - Data in itself doesn’t tell you anything<br>—Noam Chomsky
 
 
-- Golf is always a game of pressure. You're constantly torn between wanting to make par, get closer, or hit it far; and dreading hitting out of bounds, three-putting, or duffing the ball. Every swing navigates between the “wants” and the “don't wants.” Essentially, it boils down to what you gain form success versus what you lose from failure. The greater the stakes, the stiffer you become with tension. That’s the pressure of golf.<br>—Igaiga, Hey! Tonbo
+- Golf is always a game of pressure. You’re constantly torn between wanting to make par, get closer, or hit it far; and dreading hitting out of bounds, three-putting, or duffing the ball. Every swing navigates between the “wants” and the “don’t wants.” Essentially, it boils down to what you gain form success versus what you lose from failure. The greater the stakes, the stiffer you become with tension. That’s the pressure of golf.<br>—Igaiga, Hey! Tonbo
 
 
 - We can’t choose how we die. But we can choose how we live. We can choose what our life should be.<br>—Dusty, Hey! Tonbo
@@ -1259,7 +1259,7 @@ the years.
 - When you have clarity of purpose, and you’re doing something you love, every day can be a joy and that joy can spread to others.<br>—Ronnie Chieng, 2026
 
 
-- I don't hold on to bad shots because you can't take them back.<br>—Samuel Jackson
+- I don’t hold on to bad shots because you can’t take them back.<br>—Samuel Jackson
 
 
 - You can’t control them, and you shouldn’t try to. You have to let it happen. The more you try to control it, the harder it is to manage.<br>—Guillaume Néry
@@ -1289,10 +1289,10 @@ the years.
 - No world can be perfect, but we have to choose to make our life as great as it can be.<br>—Amanda Lucas, Dark Matter (2024)
 
 
-- And if you made the choices that brought you here, genuinely, you'll be at peace with where you end up.<br>—Laurel, Dark Matter (2024)
+- And if you made the choices that brought you here, genuinely, you’ll be at peace with where you end up.<br>—Laurel, Dark Matter (2024)
 
 
-- We can't control our desires, only what we do about them.<br>—Amanda Lucas, Dark Matter (2024)
+- We can’t control our desires, only what we do about them.<br>—Amanda Lucas, Dark Matter (2024)
 
 
 - Adversity always lies in the path of advancement. Most would run from it. I would walk through it.<br>—Valya Harkonnen, Dune: Prohecy (2023)
@@ -1304,7 +1304,10 @@ the years.
 - If you give someone Fortran, he has Fortran. If you give someone Lisp, he has any language he pleases.<br>—Guy L. Steele, Jr.
 
 
-- However, he'll have a hard time finding someone else speaking that same language he pleases.<br>—Faré Rideau
+- However, he’ll have a hard time finding someone else speaking that same language he pleases.<br>—Faré Rideau
 
 
-- It's better to be on the ground wishing you were in the air, than in the air wishing you were on the ground.<br>—anonymous
+- It’s better to be on the ground wishing you were in the air, than in the air wishing you were on the ground.<br>—anonymous
+
+
+- Doesn’t it feel like every few years there’s some society-ending thing? Even the printing press triggered wars, genocide. The consequences of inventions are always immense and unpredictable. But they pale in comparison to going backwards. It’s always the end of the world until it’s not.<br>—Oluko, Dark Matter (2026)
