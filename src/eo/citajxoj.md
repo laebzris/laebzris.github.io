@@ -1301,3 +1301,6 @@ tra la jaroj.
 
 
 - Ĉu ne sentas, ke ĉiuj kelkaj jaroj, estas io kiu detruas la socion? Eĉ la presmaŝino kaŭzis militojn, gentomurdon. La konsekvecoj de elpensaĵoj estas ĉiam grandega kaj neantaŭdirebla. Sed ili palas kontraste al iri malantaŭen. Estas ĉiam la fino de la mondo, ĝis ne estas.<br>—Oluko, Dark Matter (2026)
+
+
+- La maŝino portas vin al la bezonlinio. Tio kio okazas post ĝi estas tute vi. Kaj vi ne fariĝas preta per aĉeti ion. Preteco estas mito. Vi fariĝas preta per fari ion malbone denove kaj denove kaj poste malpli bone kaj poste ege bone.<br>—Ferdinand MELS

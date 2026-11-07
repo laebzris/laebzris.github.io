@@ -1311,3 +1311,6 @@ the years.
 
 
 - Doesn’t it feel like every few years there’s some society-ending thing? Even the printing press triggered wars, genocide. The consequences of inventions are always immense and unpredictable. But they pale in comparison to going backwards. It’s always the end of the world until it’s not.<br>—Oluko, Dark Matter (2026)
+
+
+- The machine gets you to the need line. What happens after that is all you. And you don't get ready by buying something. Readiness is a myth. You get ready by doing it badly over and over and then less badly and then really well.<br>—Ferdinand Mels
