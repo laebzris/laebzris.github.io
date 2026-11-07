@@ -1314,3 +1314,6 @@ the years.
 
 
 - The machine gets you to the need line. What happens after that is all you. And you don't get ready by buying something. Readiness is a myth. You get ready by doing it badly over and over and then less badly and then really well.<br>—Ferdinand Mels
+
+
+- Nobody selling gear makes a dime when you’re happy with what you already own.<br>—Ferdidand Mels

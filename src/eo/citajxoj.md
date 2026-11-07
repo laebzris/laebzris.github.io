@@ -1304,3 +1304,6 @@ tra la jaroj.
 
 
 - La maŝino portas vin al la bezonlinio. Tio kio okazas post ĝi estas tute vi. Kaj vi ne fariĝas preta per aĉeti ion. Preteco estas mito. Vi fariĝas preta per fari ion malbone denove kaj denove kaj poste malpli bone kaj poste ege bone.<br>—Ferdinand MELS
+
+
+- Neniu kiu vendas ilarojn gajnas groŝon kiam oni estas kontenta per tiuj kiujn oni jam havas.<br>—Ferdinand MELS
