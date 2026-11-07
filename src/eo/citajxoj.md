@@ -1307,3 +1307,6 @@ tra la jaroj.
 
 
 - Neniu kiu vendas ilarojn gajnas groŝon kiam oni estas kontenta per tiuj kiujn oni jam havas.<br>—Ferdinand MELS
+
+
+- Kiam mi devigas foton, ĝi ankaŭ devigas puŝi reen. Kiam mi kreas la vidon kaj lasi la regon, la bildo povas fine iĝi kreita.<br>—Ferdinand MELS

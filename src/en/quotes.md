@@ -1317,3 +1317,6 @@ the years.
 
 
 - Nobody selling gear makes a dime when you’re happy with what you already own.<br>—Ferdidand Mels
+
+
+- When I force a shot, it pushes back. When I hold the vision and let go of controlling it, the image can finally be created.<br>—Ferdinand Mels
