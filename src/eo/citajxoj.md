@@ -1310,3 +1310,6 @@ tra la jaroj.
 
 
 - Kiam mi devigas foton, ĝi ankaŭ devigas puŝi reen. Kiam mi kreas la vidon kaj lasi la regon, la bildo povas fine iĝi kreita.<br>—Ferdinand MELS
+
+
+- Se neniu pagos por la promeso, ili ne pagos por la produkto.<br>—EverythingProfessor, Jutubo
