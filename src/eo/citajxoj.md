@@ -1286,7 +1286,7 @@ tra la jaroj.
 - Ni ne povas regi niajn dezirojn, nur tion kiujn ni faras al ili.<br>—Amanda Lucas, Dark Matter (2024)
 
 
-- Kontraŭeco ĉiam kuŝas ĉe la vojo de antaŭenigo. La plejmulto forkuras de ĝi. Mi marsus tra ĝi.<br>—Valya Harkonnen, Dune: Prophecy (2023)
+- Kontraŭeco ĉiam kuŝas ĉe la vojo de antaŭenigo. La plejmulto forkuras de ĝi. Mi marsus tra ĝi.<br>—Valya HARKONNEN, Dune: Prophecy (2023)
 
 
 - Senĉeseco sen elsciado kondukas al la sama elveno.<br>—La armilisto, The Book of Boba Fett
@@ -1312,4 +1312,7 @@ tra la jaroj.
 - Kiam mi devigas foton, ĝi ankaŭ devigas puŝi reen. Kiam mi kreas la vidon kaj lasi la regon, la bildo povas fine iĝi kreita.<br>—Ferdinand MELS
 
 
-- Se neniu pagos por la promeso, ili ne pagos por la produkto.<br>—EverythingProfessor, Jutubo
+- Se neniu pagos por la promeso, neniu ne pagos por la produkto.<br>—EverythingProfessor, Jutubo
+
+
+- Mi ne ŝatas nur toleri. Ĉi tiu komplezo estas malsano. Se ni agas nun, ĝi infektas ni ĉiujn.<br>—Valya HARKONNEN, Dune: Prophecy (2023)
