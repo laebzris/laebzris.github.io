@@ -1318,4 +1318,4 @@ tra la jaroj.
 - Mi ne ŝatas nur toleri. Ĉi tiu komplezo estas malsano. Se ni agas nun, ĝi infektas ni ĉiujn.<br>—Valya HARKONNEN, Dune: Prophecy (2023)
 
 
-- La tempo por snufi fajron estas kiam malsaĝulo ekbruligas alumeton. Ne kiam via domo bruliĝas ĉirkaŭ vi.<br>—Desmond HART, Dune: Prophecy (2023)
+- La tempo por snufi fajron estas kiam malsaĝulo ekbruligas alumeton. Ne post kiam via domo bruliĝas ĉirkaŭ vi.<br>—Desmond HART, Dune: Prophecy (2023)
