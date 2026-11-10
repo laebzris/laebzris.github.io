@@ -1326,3 +1326,6 @@ the years.
 
 
 - I don't want to just endure. This complacency is a disease. If we don't act now, it will infect all of us.<br>—Valya Harkonnen, Dune: Prophecy (2023)
+
+
+- The time to snuff a fire out is when a fool lights a match. Not after your house burns down around you.<br>—Desmond Hart, Dune: Prophecy (2023)
