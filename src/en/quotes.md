@@ -1295,9 +1295,6 @@ the years.
 - We can’t control our desires, only what we do about them.<br>—Amanda Lucas, Dark Matter (2024)
 
 
-- Adversity always lies in the path of advancement. Most would run from it. I would walk through it.<br>—Valya Harkonnen, Dune: Prophecy (2023)
-
-
 - Persistence without insight will lead to the same outcome.<br>—The Armorer, The Book of Boba Fett
 
 
@@ -1325,7 +1322,13 @@ the years.
 - If nobody will pay for the promise, they won’t pay for the product.<br>—EverythingProfessor, YouTube
 
 
+- Adversity always lies in the path of advancement. Most would run from it. I would walk through it.<br>—Valya Harkonnen, Dune: Prophecy (2023)
+
+
 - I don't want to just endure. This complacency is a disease. If we don't act now, it will infect all of us.<br>—Valya Harkonnen, Dune: Prophecy (2023)
+
+
+- In responsible hands, any tool can be used for the betterment of humanity<br>—Valya Harkonnen, Dune: Prophecy (2023)
 
 
 - The time to snuff a fire out is when a fool lights a match. Not after your house burns down around you.<br>—Desmond Hart, Dune: Prophecy (2023)

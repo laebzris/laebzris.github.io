@@ -1286,10 +1286,8 @@ tra la jaroj.
 - Ni ne povas regi niajn dezirojn, nur tion kiujn ni faras al ili.<br>—Amanda Lucas, Dark Matter (2024)
 
 
-- Kontraŭeco ĉiam kuŝas ĉe la vojo de antaŭenigo. La plejmulto forkuras de ĝi. Mi marsus tra ĝi.<br>—Valya HARKONNEN, Dune: Prophecy (2023)
-
-
 - Senĉeseco sen elsciado kondukas al la sama elveno.<br>—La armilisto, The Book of Boba Fett
+
 
 - Se oni donas je Fortran al iu, ĝi havas je Fortran. Se oni donas Lispon, ĝi havas ajnan lingvon kiun ĝi deziras.<br>—Guy L. Steele, Jr.
 
@@ -1315,7 +1313,14 @@ tra la jaroj.
 - Se neniu pagos por la promeso, neniu ne pagos por la produkto.<br>—EverythingProfessor, Jutubo
 
 
+- Kontraŭeco ĉiam kuŝas ĉe la vojo de antaŭenigo. La plejmulto forkuras de ĝi. Mi marsus tra ĝi.<br>—Valya HARKONNEN, Dune: Prophecy (2023)
+
+
 - Mi ne ŝatas nur toleri. Ĉi tiu komplezo estas malsano. Se ni agas nun, ĝi infektas ni ĉiujn.<br>—Valya HARKONNEN, Dune: Prophecy (2023)
 
 
+- En respondecaj manoj, ajna ilo povas esti uzata por la plibonigo de homaro.<br>—Valya HARKONNEN, Dune: Prophecy (2023)
+
+
 - La tempo por snufi fajron estas kiam malsaĝulo ekbruligas alumeton. Ne post kiam via domo bruliĝas ĉirkaŭ vi.<br>—Desmond HART, Dune: Prophecy (2023)
+
