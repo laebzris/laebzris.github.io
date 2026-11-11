@@ -15,5 +15,7 @@ Interesas al li la sinteza konscio, la artefarita inteligenteco, la rezonado, la
 Li estas la ĉefa afergvida oficisto de VEDA Teĥnologioj, Ink.
 
 Li loĝas kun sia edzino kaj filo en Filipinoj.
+
+🪴🧑‍💻️✍️💬🎨📸🏋️🧘️🏌️‍♂️🔫🎮🐚🎤
 </div>
 

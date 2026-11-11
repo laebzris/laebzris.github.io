@@ -17,4 +17,7 @@ information, minds, and computationalism. He is the Chief Executive Officer of V
 Inc.
 
 He lives with his wife and son in the Philippines.
+
+🪴🧑‍💻️✍️💬🎨📸🏋️🧘️🏌️‍♂️🔫🎮🐚🎤
+
 </div>
