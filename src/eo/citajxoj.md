@@ -1324,3 +1324,23 @@ tra la jaroj.
 
 - La tempo por snufi fajron estas kiam malsaĝulo ekbruligas alumeton. Ne post kiam via domo bruliĝas ĉirkaŭ vi.<br>—Desmond HART, Dune: Prophecy (2023)
 
+
+- Sen daŭra ekzerco, la oficistoj nervozas kaj hezitemas kiam kunveniĝos por batalo; sen daŭra ekzerco, la armeestro tremas kaj nedecidas kiam la venas la krizo.<br>—Tu YU citas je Wang TZU
+
+
+- Dum venko estas atingita, malsaĝa hasto estas preferinda ol saĝa prokrasto.<br>—Chang YU
+
+
+- La lerta dunganto de homoj dungos la saĝulon, la kuraĝulon, kaj avidulon, kaj la malsaĝulon. La saĝulon feliĉas pri kanstati sian meriton, la kuraĝulon feliĉas pri la montro de sia kuraĝo en batalo, la avidulon estas rapida pri ekkapti avantaĝojn, kaj la malsaĝulon ne havas timon de morto.<br>—Tu MU citas Sun TZU
+
+
+- Se oni konas sian malamikon kaj konas sin, oni ne timas la rezulton de centmilitoj. Se oni konas sin sed ne la malamikon, ĉiu gajnita venko estas ankaŭ malvenko.<br>—Sun TZU
+
+
+- Koni la malamikon ebligas onin havi la atakon, koni sin ebligas onin stari ĉe la defendo.<br>—Chang YU
+
+
+- Atako estas la sekreto de defendo; defendo estas la planado de atako.<br>—Chang YU
+
+
+- Tiu kiun la antikvuloj nomas lertan bataliston estas tiu kiu ne nur venkas, sed ankaŭ superas pri venki kun facileco.<br>—Sun TZU

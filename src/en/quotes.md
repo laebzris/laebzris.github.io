@@ -1332,3 +1332,24 @@ the years.
 
 
 - The time to snuff a fire out is when a fool lights a match. Not after your house burns down around you.<br>—Desmond Hart, Dune: Prophecy (2023)
+
+
+- Without constant practice, the officers will be nervous and undecided when mustering for battle; without constant practice, the general will be wavering and irresolute when the crisis is at hand.<br>—Tu Yu quotes Wang Tzu
+
+
+- So long as victory can be attained, stupid haste is preferable to clever dilatoriness.<br>—Chang Yu
+
+
+- The skillful employer of men will employ the wise man, the brave man, the covetous man, and the stupid man. For the wise man delights in establishing his merit, the brave man likes to show his courage in action, the covetous man is quick at seizing advantages, and the stupid man has no fear of death.<br>—Tu Mu quotes Sun Tzu
+
+
+- If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat.<br>—Sun Tzu
+
+
+- Knowing the enemy enables you to take the offensive, knowing yourself enables you to stand on the defensive.<br>—Chang Yu
+
+
+- Attack is the secret of defense; defense is the planning of an attack.<br>—Chang Yu
+
+
+- What the ancients called a clever fighter is one who not only wins, but excels in winning with ease.<br>—Sun Tzu

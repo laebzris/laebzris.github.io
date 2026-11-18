@@ -18,6 +18,6 @@ Inc.
 
 He lives with his wife and son in the Philippines.
 
-🪴🧑‍💻️✍️💬🎨📸🏋️🧘️🏌️‍♂️🔫🎮🐚🎤
+🪴🧑‍💻️✍️💬🎨📸🏋️🧘️🏌️‍♂️🔫🎮🤿
 
 </div>
