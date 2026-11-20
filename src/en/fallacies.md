@@ -78,11 +78,9 @@ examination.
 After X, Y happened. Therefore, X caused Y. When an event happened after another event, it is
 presumed that what happened before it must have caused it.
 
->“After Juana communed to Jibbers Crabst, her father recovered from his illness. Praise Jibbers
->Crabst!”
+>After John got elected into office, everything in this city fell apart.
 
-This is fallacious because she ignores the possibility that it may have been the medications given
-to her father, that made him well.
+This is fallacious because it ignores the possibility that the city may have been falling apart before John got elected into office.
 
 
 <a name="cumhoc">Cum hoc ergo propter hoc</a>
@@ -91,10 +89,10 @@ to her father, that made him well.
 During X, Y happened. Therefore, X is related Y. When an event happened together with another event,
 it is presumed that what happened with it must be relevant.
 
->“Oh my! Did you know that when I was moving here to New York, Cubao, Pedro was doing so, too! Our
+>“Oh my! Did you know that when I was moving here to New York, Cubao, Peter was doing so, too! Our
 >minds must be connected by astral forces!”
 
-This is fallacious because she doesn’t consider other factors like Pedro moving to that city because
+This is fallacious because she doesn’t consider other factors like Peter moving to that city because
 of his own volition, and not due to magic.
 
 
@@ -243,9 +241,9 @@ holds. Person B then attacks this weaker version, and if triumphant, concludes t
 argument is defeated.
 
 >Juan: “Alcohol ads should be banned from mass media, because it indirectly encourages under-age drinking.”<br>
->Pedro: “People have been drinking alcohol for a long time. They will continue to do so.”
+>Peter: “People have been drinking alcohol for a long time. They will continue to do so.”
 
-Pedro misrepresents the position of Juan as: “People should give up drinking alcohol.” That is not
+Peter misrepresents the position of Juan as: “People should give up drinking alcohol.” That is not
 what Juan said.
 
 
@@ -281,12 +279,11 @@ things that are being discussed.
 This is committed when the actions, choices, and words of a person of authority, or expertise, is
 used to disprove the claims of another person.
 
->“The theory of evolution is wrong, because Kulas, who is a scientist, said that he doesn’t believe
->in it.”
+>“Nick, who is an expert in artificial intelligence, says that the use of AI to answer your
+>homeworks will not cause brain rot.”
 
-Just because someone is a scientist, doesn’t mean that they support
-the [theory of evolution](http://notjustatheory.com/). It is likely that even if he is a scientist,
-he doesn’t understand the said theory.
+Just because somebody claims to be an expert on something, does not mean they are free from
+mistakes. It is likely that even if he is an expert, he still doesn't understand how things work.
 
 
 <a name="anonauthority">Appeal to anonymous authority</a>
@@ -322,7 +319,7 @@ This fallacy states that if most people—relative to the speaker—chooses a sp
 that position must be true. The basic idea is that a claim must be accepted as true on the grounds
 that people are favorable towards that claim.
 
->“Most of the posts that I see on Fazebook are supporting Inel for presidency. Their choice must be
+>“Most of the posts that I see on Facebook are supporting Inel for presidency. Their choice must be
 >correct. I’m going to vote for her, too.”
 
 This happens when a person believes something just because it is popular within a certain set of
@@ -336,7 +333,7 @@ numbers.
 This fallacy is committed when it is argued that just because something is “natural” means it is
 ideal or good.
 
->“Juana claims that if a product is not labeled ‘organic’ or ‘natural’, then it is not ideal for
+>“Sylvia claims that if a product is not labeled ‘organic’ or ‘natural’, then it is not ideal for
 >consumption.”
 
 Cultivated tobacco (*Nicotiana tabacum*) is a naturally-occurring plant that is responsible for more
@@ -351,32 +348,31 @@ This fallacy is committed when emotions are used to elicit a fallacious response
 target. The basic idea is that emotional tactics are used to persuade a person into believing that
 the argument being presented is valid.
 
->“Pedro, eat your broccoli. Think about all the poor, starving, and homeless children around the
+>“Peter, eat your broccoli. Think about all the poor, starving, and homeless children around the
 >world.”
 
-Pedro’s parent wants to make him eat the broccoli, by using emotional ploy, instead of providing
-substantial reasons for Pedro to eat the broccoli.
+Peter’s parent wants to make him eat the broccoli, by using emotional ploy, instead of providing
+substantial reasons for Peter to eat the broccoli.
 
 
 <a name="force">Appeal to force</a>
 ------------------------------------
 
 This fallacy is committed when the threat of force or violence is used to coerce a person to accept
-a claim to be true. This fallacy is very common in religious circles.
+a claim to be true. This fallacy is very common in organizations.
 
->“If you don’t listen to the words of Jibbers Crabst, you’ll burn in the torturous flames of Kell.”
+>“Whoever objected to my proposals shall face my absolute wrath.”
 
-Instead of providing a reason why someone should listen to Jibbers Crabst, threats of violence are
-instead used to force someone to follow blindly.
+The threat of force and violence was used in order to shove his corrupt practices.
 
 
 <a name="tradition">Appeal to tradition</a>
 --------------------------------------------
 
 This fallacy is committed when it is argued that just because something is traditional, or the norm,
-then it must be followed. This is found in religion and cultures.
+then it must be followed.
 
->“It is customary for us to participate annually in the Kabobohan march. You should join us, too.”
+>“It is customary for us to participate in the annual parade. You should join us, too.”
 
 This fails to state why one should join the said event. Instead it is argued that it should be done
 on the grounds that it is traditional.
@@ -441,11 +437,9 @@ doesn’t mean that its existence is necessary.
 This fallacy is committed when the thing to be proved is used as one of the premises. It is an
 example of circular reasoning.
 
->“The divine words of Jibbers Crabst are pure, splendid, and impeccable because it says so in The
->Eternal and Transcendent Book of Crabst.”
+>“The words of President John must be observed and followed because he is the president.”
 
-This blatantly assumes the validity of the existence of such an entity, and to prove it means to
-assume that that entity exists, first. X because X.
+This doesn't state why John must be followed other than its own circular reasoning.
 
 
 <a name="selective">Selective observation</a>
@@ -454,7 +448,7 @@ assume that that entity exists, first. X because X.
 This is committed when a conclusion is made from narrow and limited views. This is also called the
 cherry picking fallacy. Mass and social media is notorious of this.
 
->“Jane is living a blissful and satisfying life because I frequently see her posts on Fazebook
+>“Jane is living a blissful and satisfying life because I frequently see her posts on Facebook
 >that she is happy.”
 
 The observer ignores the possibility that what he sees may not be true because Jane may only post
@@ -520,12 +514,12 @@ draws conclusions based on false comparisons.
 This is committed when a speaker asserts something, but retracts it later by providing contradictory
 statements. This is also called “Having your cake.”
 
->“Look son, I don’t believe in ghosts. Last night, however, when I was alone in my room, I heard
->tapping sounds on the night stand. I’m sure it wasn’t me. It must be those unseen astral beings.”
+>“I don't think our organization is run by smart, honest, and dedicated officers. In our last
+>meeting, however, President John was nice to me. He must be the exception.”
 
-The speaker makes a bold statement about not believing in the paranormal existence of ghosts, but he
-backs out later and claims that some “astral” beings must be the source of the tapping. They claims X
-but states the anti-X, later.
+The speaker makes a bold statement about not believing in the officers in his organization, but he
+later backs out just because John was nice to him during a meeting. He claims X but states the
+anti-X, later.
 
 
 <a name="least">Least plausible hypothesis</a>
@@ -549,7 +543,7 @@ This is committed when person B changes their position after person A successful
 position of person B. The goal is to move the goalpost so that it will then be difficult for person
 A to attack the new, shifted post.
 
->Pedro claimed that it is due to his daily intake of Kidneyaid capsules that makes his kidney
+>Peter claimed that it is due to his daily intake of Kidneyaid capsules that makes his kidney
 >healthy. When he was diagnosed with kidney stones, he stated that it could have been worse, had it
 >not been for his Kidneyaid capsules.
 

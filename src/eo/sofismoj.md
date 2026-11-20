@@ -77,9 +77,9 @@ da ili estas kaŝitaj en klaraj vidoj dum aliaj rampas en la anguloj kaj bezonas
 Post kiam okazis A, okazis B. Tial, A kaŭzis B. Kiam okazo okazis post alia okazo, estas antaŭsupozite, ke tio,
 kio okazis antaŭe devis havi la kaŭzon.
 
->«Post kiam Silvja preĝis al Vakelo, ŝia patro pliresaniĝis el sia malsano. Do, ni kultu Vakelon!»
+>Post kiam Johano estik elektita, ĉio en ĉi tiu urbo falas.
 
-Ĉi tio estas erara ĉar Silvja malatentas la eblecon, ke estis eble la medikamento kiu plisanigis sian patron.
+Ĉi tio estas erara ĉar eblas, ke la urbo jam ekfalas antaŭ ol Johano estis elektita.
 
 
 <a name="dum">Dum ĉi tio, do, ankaŭ de ĉi tio</a>
@@ -274,11 +274,10 @@ diskutitaj aferoj.
 Ĉi tio estas fifarita kiam la agoj, elektoj, kaj vortoj de persono de aŭtoritato, aŭ sperto,
 uziĝas por refuti la asertojn de alia persono.
 
->«La teorio de evoluado eraras pro Johano, kiu estas sciencisto kaj diris, ke li ne kredas ĝin.»
+>«Niko, kiu estas spertulo en artefarita inteligenteco, diras ke la uzado de AI por fini viajn lernejajn hejmtaskojn ne kaŭzas degrado de pensado.»
 
-Nur pro tio ke iu estas sciencisto, ne signifas ke ĝi subtenas la [teorion de
-evoluado](http://notjustatheory.com/). Estas verŝajne, ke eĉ ĝi estas sciencisto li ne kredas la
-antaŭmenciitan teorion.
+Nur pro tio ke oni asertas ke oni estas spertulo pri io, ne implicas ke ili estas libera pri eraroj.
+Eblas ke, eĉ oni estas spertulo, oni ne ankoraŭ komprenas kiel aferoj funkcias.
 
 
 <a name="anonimaauxtoritato">Apelo al anonima aŭtoritato</a>
@@ -356,20 +355,18 @@ fortikajn kialojn, ke Petro devas manĝi la brokolion ĉar ĝi nutras.
 Ĉi tiu sofismo estas farita kiam la minaco de forto aŭ fortego estas uzita por devigi personon por
 akcepti aserton kiel vera. Ĉi tiu sofismo estas ofte rimarkita en religiaj grupoj.
 
->«Se vi ne obeos la vortojn de Vakelo, vi forbruliĝos en la torturemaj flamoj de la geheno.»
+>«Tiuj kiuj obĵetis miajn propronoj ricevos mian absolutan koleregon.»
 
-Anstataŭ doni kialon kial oni devas aŭskulti Vakelo, minacoj de fortegoj estas uzitaj por devigi iun
-devigi por blinde observi.
+La minaco de devigo kaj perforto estas uzito por ke oni puŝu siajn kromcelojn.
 
 
 <a name="tradicio">Apelo al tradicio</a>
 ----------------------------------------
 
 Ĉi tiu sofismo estas farita kiam estas disputite, ke nur pro tio ke io estas tradicia aŭ la normo,
-do tio devas esti observita. Ĉi tiu ofte estas rimarkita en religiaj grupoj kaj kulturoj.
+do tio devas esti observita.
 
->«Estas kutime de ni por ĉiujare partopreni en la marŝado de Kabobohan. Ankaŭ vi devas
->partopreni!»
+>«Estas kutime de ni por ĉiujare partopreni en la paradmarŝo. Ankaŭ vi devas partopreni!»
 
 Ĉi tiu malsukcese eldiras kial oni devas aliĝi en la evento. Anstataŭe, estas disputite, ke ĝi devas
 esti farita sur la fundoj, ke tradicias.
@@ -433,11 +430,9 @@ neeviteblajn aferojn, ne signifas, ke ili necesas.
 Ĉi tiu sofismo estas farita kiam la pruvota io estas uzita kiel unu el la premisoj. Estas ekzemple
 de ronda rezonado.
 
->«La diaj vortoj de Vakelo estas puraj, superbaj, kaj seneraraj pro tio ke ili estas diritaj en La
->Eterna kaj Transcenda Libro de Vakelo.»
+>«La diroj de Prezidanto Johano devas esti observitaj kaj sekvitaj ĉar li estas la prezidanto.»
 
-Ĉi tio senhoneste antaŭsupozas la validecon de la ekzisto de tia esto, kaj por pruvi ĝin, signifas,
-ke oni devas supozi unue la ekzistecon de tio. A pro A.
+Ĉi tio ne asertas kial Johano devas esti sekvita krom ĝia ronda rezonado mem.
 
 
 <a name="selektiva">Selektiva observo</a>
@@ -512,13 +507,11 @@ konkludas per falsaj komparoj.
 Ĉi tio estas farita kiam parolanto asertas ion, sed ĝi poste malkonfesas ĝin per doni kontraŭdirajn
 deklaroj. Ĉi tio ankaŭ nomiĝas «havi vian kukon.»
 
->«Aŭskultu filo, mi ne kredas je fantomoj. Tamen, hieraŭ vespere, kiam mi estis sola en mia ĉambro,
->mi aŭdis batetajn sonojn sur la lampotabelo. Mi certas, ke tio ne estis mi. Devas esti la nevideblaj
->astraj estoj.»
+>«Mi opinias, ke nia organizo ne estas direktita de saĝaj, honestaj, kaj dediĉataj oficistoj. En nia
+>lasta kunveno, tamen, Prezidanto Johano estis plaĉa al mi. Li devas esti la escepto.»
 
-La parolanto faras aŭdacajn dirojn pri ne kredi la paranormalajn ekzistecojn de fantomoj, sed li
-malkonfesis kaj asertas siajn vortojn, ke iuj astraj estoj devas esti la fonto de la batetaj sonoj.
-Oni asertas A, sed poste asertas kontraŭ-A.
+La parolanto havas la aŭdacan deklaron, ke li ne kredas je la oficistoj en lia organizo. Sed li
+poste malkonfesas ĉar Johano estis plaĉa al li dum kunveno. Oni asertas A, sed poste asertas kontraŭ-A.
 
 
 <a name="malplej">Malplej aprobebla hipotezo</a>
